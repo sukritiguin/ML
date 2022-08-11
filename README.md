@@ -30,5 +30,8 @@
         * Max Absolute Scaling
         * Robust Scaling
     * Encoding Categorical Data | Ordinal Encoding | Label Encoding [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/ML4.ipynb)
-    * Demo Next
+    * One Hot Encoding | Handling Categorical Data [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/ML5.ipynb)
+    * Column Transformer [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/ML6.ipynb)
+    * Training Titanic Dataset without using Pipeline [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/ML6.ipynb)
+    * Predict Titanic Dataset from model.pkl without using Pipeline [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/ML6.ipynb)
 3. 
