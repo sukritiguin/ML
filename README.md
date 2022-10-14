@@ -37,5 +37,7 @@
         * Training Titanic Dataset without using Pipeline [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/ML7.ipynb)
         * Predict Titanic Dataset from model.pkl without using Pipeline [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/ML8.ipynb)
     * Scikit learn Begineer Preprocessing [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/sci-kit_learn_preprocessing.ipynb)
+    * Text Preprocessing [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/text-preprocessing.ipynb)
+    * Text Representation [Notebook](https://github.com/sukritiguin/ML/bolb/main/NoteBooks/text-representation.ipynb)
 3. **Accuracy Calculations** [Notebook](https://github.com/sukritiguin/ML/blob/main/Accuracy_Calculation.ipynb)
 4. 
