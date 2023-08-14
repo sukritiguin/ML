@@ -40,4 +40,10 @@
     * Text Preprocessing [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/text-preprocessing.ipynb)
     * Text Representation [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/text-representation.ipynb)
 3. **Accuracy Calculations** [Notebook](https://github.com/sukritiguin/ML/blob/main/Accuracy_Calculation.ipynb)
-4. 
+4. **Unsupervised Learning Algorithms**
+     - **K Mean Clustering**
+          * K Mean Clustering [2D, 3D]
+          * Elbow Method & WCSS Calculations
+          * Silhouette analysis
+          * Agglomerative Clustering [2D, 3D]
+          * DBSCAN [2D, 3D]
