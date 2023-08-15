@@ -50,11 +50,11 @@
          - Parameters include `n_neighbors` (number of neighbors), `weights` (weighting strategy), and `metric` (distance metric).
          - Provides methods for fitting the model (`fit`), making predictions (`predict`), and calculating class probabilities (`predict_proba`).
          - Find the best value of k
-              - Iterative way
-              - GridSearchCV
-              - RandomizedSearchCV
-              - Elbow Method
-           - Hyperparameters Tuning
+              * Iterative way
+              * GridSearchCV
+              * RandomizedSearchCV
+              * Elbow Method
+        - Hyperparameters Tuning
          
          #### `sklearn.neighbors.KNeighborsRegressor`
          
