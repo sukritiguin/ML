@@ -56,7 +56,7 @@
               * Elbow Method
         - Hyperparameters Tuning
          
-         #### `sklearn.neighbors.KNeighborsRegressor`
+         #### `sklearn.neighbors.KNeighborsRegressor` [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Hands_on_KNeighborsRegressor.ipynb)
          
          - Used for KNN regression.
          - Parameters are similar to `KNeighborsClassifier`.
