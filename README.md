@@ -44,6 +44,43 @@
       - **K-Nearest Neighbors (KNN) algorithm**
            * Idea behind KNN [Idea](https://github.com/sukritiguin/ML/blob/main/Datasets/Idea%20Behind%20KNN.md)
            * Implementing KNN from scratch [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementing_KNN.ipynb)
+         #### `sklearn.neighbors.KNeighborsClassifier`
+         
+         - Used for KNN classification.
+         - Parameters include `n_neighbors` (number of neighbors), `weights` (weighting strategy), and `metric` (distance metric).
+         - Provides methods for fitting the model (`fit`), making predictions (`predict`), and calculating class probabilities (`predict_proba`).
+         
+         #### `sklearn.neighbors.KNeighborsRegressor`
+         
+         - Used for KNN regression.
+         - Parameters are similar to `KNeighborsClassifier`.
+         - Provides methods for fitting the model (`fit`) and making predictions (`predict`).
+         
+         #### `sklearn.neighbors.NearestNeighbors`
+         
+         - Performs unsupervised nearest neighbors search.
+         - Useful for finding k-nearest neighbors without associated labels.
+         - Parameters include `n_neighbors`, `algorithm`, and `metric`.
+         - Provides methods for fitting the model (`fit`), querying neighbors (`kneighbors`), and finding distances (`kneighbors_graph`).
+         
+         #### `sklearn.neighbors.RadiusNeighborsClassifier`
+         
+         - Performs classification based on neighbors within a specified radius.
+         - Parameters include `radius`, `weights`, and `outlier_label`.
+         - Provides methods for fitting the model (`fit`) and making predictions (`predict`).
+         
+         #### `sklearn.neighbors.RadiusNeighborsRegressor`
+         
+         - Performs regression based on neighbors within a specified radius.
+         - Parameters are similar to `RadiusNeighborsClassifier`.
+         - Provides methods for fitting the model (`fit`) and making predictions (`predict`).
+         
+         #### `sklearn.neighbors.KernelDensity`
+         
+         - Estimates the probability density function using kernel density estimation.
+         - Useful for density-based clustering and visualization.
+         - Parameters include `bandwidth` (kernel bandwidth) and `kernel` (kernel function).
+
 6. **Unsupervised Machine Learning Algorithms**
      - **K Mean Clustering** [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/All_about_clustering.ipynb)
           * Implementing K Mean Clustering from scratch [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementing_K_Mean_Clustering.ipynb)
