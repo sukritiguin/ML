@@ -40,7 +40,11 @@
     * Text Preprocessing [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/text-preprocessing.ipynb)
     * Text Representation [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/text-representation.ipynb)
 3. **Accuracy Calculations** [Notebook](https://github.com/sukritiguin/ML/blob/main/Accuracy_Calculation.ipynb)
-4. **Unsupervised Learning Algorithms**
+4. **Supervised Machine Learning Algorithms**
+      - **K-Nearest Neighbors (KNN) algorithm**
+           * Idea behind KNN [Idea](https://github.com/sukritiguin/ML/blob/main/Datasets/Idea%20Behind%20KNN.md)
+           * Implementing KNN from scratch [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementing_KNN.ipynb)
+6. **Unsupervised Machine Learning Algorithms**
      - **K Mean Clustering** [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/All_about_clustering.ipynb)
           * Implementing K Mean Clustering from scratch [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementing_K_Mean_Clustering.ipynb)
           * K Mean Clustering [2D, 3D]
