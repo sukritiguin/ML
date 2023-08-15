@@ -44,11 +44,17 @@
       - **K-Nearest Neighbors (KNN) algorithm**
            * Idea behind KNN [Idea](https://github.com/sukritiguin/ML/blob/main/Datasets/Idea%20Behind%20KNN.md)
            * Implementing KNN from scratch [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementing_KNN.ipynb)
-         #### `sklearn.neighbors.KNeighborsClassifier`
+         #### `sklearn.neighbors.KNeighborsClassifier` [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Hands_on_KNeighborsClassifier.ipynb)
          
          - Used for KNN classification.
          - Parameters include `n_neighbors` (number of neighbors), `weights` (weighting strategy), and `metric` (distance metric).
          - Provides methods for fitting the model (`fit`), making predictions (`predict`), and calculating class probabilities (`predict_proba`).
+         - Find the best value of k
+              - Iterative way
+              - GridSearchCV
+              - RandomizedSearchCV
+              - Elbow Method
+           - Hyperparameters Tuning
          
          #### `sklearn.neighbors.KNeighborsRegressor`
          
