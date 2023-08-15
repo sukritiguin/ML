@@ -86,6 +86,9 @@
          - Estimates the probability density function using kernel density estimation.
          - Useful for density-based clustering and visualization.
          - Parameters include `bandwidth` (kernel bandwidth) and `kernel` (kernel function).
+      - **SVM(Support Vector Machine)**
+           * Idea behind Hard Margin SVM [ReadMe](https://github.com/sukritiguin/ML/blob/main/Datasets/Implementing%20SVM%20Hard%20Margin.md)
+           * Implementing SVM [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementing_Hard_Margin_Support_Vector_Machine_for_Binary_Classification.ipynb)
 
 6. **Unsupervised Machine Learning Algorithms**
      - **K Mean Clustering** [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/All_about_clustering.ipynb)
