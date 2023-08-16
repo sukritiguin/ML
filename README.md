@@ -47,6 +47,7 @@
            * **`Ridge Regularization`** on **Simple Linear Regression** **[Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementing_Ridge_Regression_for_Simple_Linear_Regression.ipynb)**
            * **`Ridge Regularization`** on **Multiple Linear Regression** **[Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementing_Ridge_Regressor_for_Multiple_Linear_Regression.ipynb)**
            * Implementation of `Logistic Regression` for `Binary Classification` [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementation_Logistic_Regression.ipynb)
+           * Implementation **`SGDRegressor`** : `Ridge Regression` for `Multiple Linear Regression` using **`Stochastic Gradient Descent`** [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementation_SGD_Regressor(Ridge_Regressor_with_gradient_descent).ipynb)
       - **K-Nearest Neighbors (KNN) algorithm**
            * Idea behind KNN [Idea](https://github.com/sukritiguin/ML/blob/main/Datasets/Idea%20Behind%20KNN.md)
            * Implementing KNN from scratch [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementing_KNN.ipynb)
