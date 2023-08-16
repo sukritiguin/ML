@@ -42,8 +42,9 @@
 3. **Accuracy Calculations** [Notebook](https://github.com/sukritiguin/ML/blob/main/Accuracy_Calculation.ipynb)
 4. **Supervised Machine Learning Algorithms**
       - **Linear Model**
-           * Implementation of Simple Linear Regression [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementation_Simple_Linear_Regression.ipynb)
-           * Implementation Multiple Linear Regression [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementation_Multiple_Linear_Regression.ipynb)
+           * Implementation of `Simple Linear Regression` [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementation_Simple_Linear_Regression.ipynb)
+           * Implementation of `Multiple Linear Regression` [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementation_Multiple_Linear_Regression.ipynb)
+           * Implementation of `Logistic Regression` for `Binary Classification` [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementation_Logistic_Regression.ipynb)
       - **K-Nearest Neighbors (KNN) algorithm**
            * Idea behind KNN [Idea](https://github.com/sukritiguin/ML/blob/main/Datasets/Idea%20Behind%20KNN.md)
            * Implementing KNN from scratch [Notebook](https://github.com/sukritiguin/ML/blob/main/NoteBooks/Implementing_KNN.ipynb)
